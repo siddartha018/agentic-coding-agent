@@ -1,0 +1,4 @@
+{
+  "issue": "The is_valid_age function has inverted logic. It returns True for ages under 18 and False for ages 18 and above.",
+  "expected_files": ["src/validator.py"]
+}

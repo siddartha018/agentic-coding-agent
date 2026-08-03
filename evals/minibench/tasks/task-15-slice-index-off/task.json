@@ -1,0 +1,4 @@
+{
+  "issue": "The get_middle_elements function returns the wrong slice. For a list [1,2,3,4,5], it should return [2,3,4] but returns [2,3].",
+  "expected_files": ["src/slicer.py"]
+}

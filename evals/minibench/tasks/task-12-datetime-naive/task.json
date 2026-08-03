@@ -1,0 +1,4 @@
+{
+  "issue": "The is_future_date function raises TypeError when comparing timezone-naive and timezone-aware datetimes. Both should use UTC timezone.",
+  "expected_files": ["src/timeutil.py"]
+}

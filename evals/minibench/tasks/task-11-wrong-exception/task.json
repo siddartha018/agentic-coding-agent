@@ -1,0 +1,4 @@
+{
+  "issue": "The validate_positive function raises TypeError instead of ValueError for negative inputs. The exception type should be ValueError.",
+  "expected_files": ["src/validation.py"]
+}

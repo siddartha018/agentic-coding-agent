@@ -1,0 +1,4 @@
+{
+  "issue": "The compute_average function crashes with ZeroDivisionError when given an empty list. It should return 0 for empty input.",
+  "expected_files": ["src/stats.py"]
+}

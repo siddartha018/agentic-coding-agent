@@ -1,0 +1,4 @@
+{
+  "issue": "The extract_price function fails when the input contains special regex characters like parentheses. The pattern needs to escape the dollar sign properly.",
+  "expected_files": ["src/parser.py"]
+}

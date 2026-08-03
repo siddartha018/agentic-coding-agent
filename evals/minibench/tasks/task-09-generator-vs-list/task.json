@@ -1,0 +1,4 @@
+{
+  "issue": "The process_twice function only processes items once because the generator is exhausted after the first pass. Need to convert to a list or create two separate generators.",
+  "expected_files": ["src/processor.py"]
+}

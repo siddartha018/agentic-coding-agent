@@ -1,0 +1,4 @@
+{
+  "issue": "The sort_by_age function crashes with TypeError because the sort key is incorrect. Should use a lambda to extract the 'age' key from each dictionary.",
+  "expected_files": ["src/sorter.py"]
+}

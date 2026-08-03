@@ -1,0 +1,4 @@
+{
+  "issue": "The traverse_graph function causes RecursionError on cyclic graphs because it's missing an early-return check for already-visited nodes.",
+  "expected_files": ["src/graph.py"]
+}

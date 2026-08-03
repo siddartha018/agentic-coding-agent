@@ -1,0 +1,4 @@
+{
+  "issue": "The get_status_message function returns 'Sucess' (with typo) instead of 'Success'.",
+  "expected_files": ["src/messages.py"]
+}

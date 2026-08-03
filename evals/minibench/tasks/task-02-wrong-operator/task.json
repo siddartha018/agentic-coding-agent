@@ -1,0 +1,4 @@
+{
+  "issue": "The discount_price function is computing the wrong price. When price=100 and discount_percent=20, it should return 80, but returns 120 instead.",
+  "expected_files": ["src/pricing.py"]
+}

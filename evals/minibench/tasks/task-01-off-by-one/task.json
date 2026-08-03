@@ -1,0 +1,4 @@
+{
+  "issue": "The sum_first_n function returns incorrect results. For n=3, it should return 6 (1+2+3) but returns 3 (1+2).",
+  "expected_files": ["src/calculator.py"]
+}

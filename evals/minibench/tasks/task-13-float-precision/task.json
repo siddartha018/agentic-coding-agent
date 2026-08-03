@@ -1,0 +1,4 @@
+{
+  "issue": "The are_equal function incorrectly compares floating-point numbers using == which fails due to precision issues. Should use math.isclose instead.",
+  "expected_files": ["src/comparison.py"]
+}

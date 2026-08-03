@@ -1,0 +1,4 @@
+{
+  "issue": "The format_user function crashes with TypeError because it expects 2 arguments but the helper function signature was changed to take 3 arguments (added middle name).",
+  "expected_files": ["src/formatter.py", "src/helper.py"]
+}

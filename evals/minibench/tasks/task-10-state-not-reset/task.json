@@ -1,0 +1,4 @@
+{
+  "issue": "The Counter class accumulates counts across multiple reset() calls because the count is not properly reset to 0.",
+  "expected_files": ["src/counter.py"]
+}

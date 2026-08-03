@@ -1,0 +1,4 @@
+{
+  "issue": "The find_max function always returns None instead of returning the maximum value in the list.",
+  "expected_files": ["src/array_utils.py"]
+}

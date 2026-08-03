@@ -1,0 +1,4 @@
+{
+  "issue": "The get_user_name function crashes with TypeError when trying to access user data. It should index a list with integers, not dictionary keys.",
+  "expected_files": ["src/user_manager.py"]
+}

@@ -1,0 +1,4 @@
+{
+  "issue": "The fetch_all function returns results in wrong order because asyncio.gather doesn't preserve task completion order when using return_exceptions=True. Need to use asyncio.as_completed or maintain order explicitly.",
+  "expected_files": ["src/fetcher.py"]
+}

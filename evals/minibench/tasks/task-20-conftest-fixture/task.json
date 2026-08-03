@@ -1,0 +1,4 @@
+{
+  "issue": "The database tests are failing because the db_connection fixture in conftest.py is missing the required 'autocommit' parameter when creating the connection.",
+  "expected_files": ["tests/conftest.py", "src/database.py"]
+}

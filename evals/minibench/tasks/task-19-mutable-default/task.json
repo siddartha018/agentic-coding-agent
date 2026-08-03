@@ -1,0 +1,4 @@
+{
+  "issue": "The append_item function shares state between calls because of a mutable default argument. The default list should be None and created inside the function.",
+  "expected_files": ["src/list_utils.py"]
+}
